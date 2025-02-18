@@ -1,2 +1,1 @@
-# AllerGuard-
-Mobile allergy scanner
+# Mobile allergy scanner
